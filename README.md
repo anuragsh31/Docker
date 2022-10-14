@@ -111,3 +111,21 @@ Command is used to show docker disk usage
 
 
 ![](Docker_command/2.jpg)
+
+
+## Task-3:
+
+[Hello_world_application](https://github.com/anuragsh31/Docker/tree/master/Hello_World_Application)
+
+
+## Task -4
+
+[Application]()
+
+[DockerHub](https://hub.docker.com/r/anuragsh31/helloapp)
+
+
+
+![](Docker_command/task-3_1.jpg)
+
+![](Docker_command/task-3_2.jpg)
